@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verification Code</title>
+    <style>
+        body {
+            font-family: 'Poppins', Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        p {
+            margin: unset;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+
+<body>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td align="center">
+                <table border="0" cellspacing="0" cellpadding="0"
+                    style="max-width: 450px; border: 1px solid #cccccc; border-radius: 10px; background: #ffffff; padding: 20px; margin: 20px auto;">
+                    <tr>
+                        <td>
+                            <p style="font-size: 25px; font-weight: 600; margin-bottom: 20px;">
+                                DocConnect
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td style="text-align: left; font-size: 16px;;">
+                                        <p>Hello <%= name %>,</p>
+                                        <p>Thank you for scheduling your appointment with <%= doctor %>. To confirm your
+                                                appointment, please enter the following verification code.</p>
+                                        <p
+                                            style="font-size: 25px; font-weight: bold; text-align: center; margin: 20px 0;">
+                                            <%= code %>
+                                        </p>
+                                        <p>Verifying your appointment ensures that your booking is confirmed and allows
+                                            you to
+                                            receive timely reminders and updates.</p>
+                                        <p style="margin-top: 20px">Best regards,</p>
+                                        <p>Team Docconnect</p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
