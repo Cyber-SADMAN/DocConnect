@@ -1,0 +1,208 @@
+[
+    {
+        "name": "Dr. M S Alam",
+        "email": "msalam@gamail.com",
+        "education": "MBBS, FCPS, CCD, EDC, C-CARD",
+        "specialization": "Medicine, Gastroliver, Rheumatology, Hormone, Diabetes, Nephrology, Neuromedicine",
+        "experience": {
+            "title": "Consultant",
+            "institute": "Dhaka Medical College & Hospital",
+            "address": "Secretariat Rd, Dhaka - 1000"
+        },
+        "chambers": [
+            {
+                "name": "Popular Diagnostic Center, Dhanmondi",
+                "address": "Dhanmondi, Room 505, House #16, Road #2, Dhanmondi R/A, Dhaka - 1205",
+                "areaId": "65f587cefc102bdf67f3d2b7",
+                "visitingHour": {
+                    "from": "17:00",
+                    "to": "22:00"
+                },
+                "contact": "+8801872777770"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Quazi Deen Mohammad",
+        "email": "qdmdneuro@gamail.com",
+        "education": "MBBS, MD, FCPS, Fellow",
+        "specialization": "Neurology, Medicine, Brain, Nerve, Headache, Migraine, Stroke",
+        "experience": {
+            "title": "Director & Professor",
+            "institute": "National Institute of Neurosciences & Hospital",
+            "address": "Sher-E-Bangla Nagar, Agargaon, Dhaka - 1207"
+        },
+        "chambers": [
+            {
+                "name": "SPRC & Neurology Hospital",
+                "address": "135, New Eskaton Road (Opposite to Dilu Road), Dhaka - 1000",
+                "areaId": "65f587cefc102bdf67f3d2c2",
+                "visitingHour": {
+                    "from": "16:00",
+                    "to": "20:00"
+                },
+                "contact": "+8801765660811"
+            }
+        ]
+    },
+    {
+        "name": "Dr. Masud Ahmed",
+        "email": "masud@gamail.com",
+        "education": "MBBS, MS (Urology)",
+        "specialization": "Prostate, Male Organs, Urology, Kidney, Ureter, Bladder, Prostate, Laparoscopic",
+        "experience": {
+            "title": "Prostate & Male Organs Surgeon",
+            "institute": "National Institute of Cancer Research & Hospital",
+            "address": "TB Gate Rd, Dhaka - 1212"
+        },
+        "chambers": [
+            {
+                "name": "Ibn Sina Diagnostic Center, Doyagonj",
+                "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+                "areaId": "65f587cefc102bdf67f3d2b0",
+                "visitingHour": {
+                    "from": "16:00",
+                    "to": "20:00"
+                },
+                "contact": "+8801878115751"
+            }
+        ]
+    },
+    {
+        "name": "Asst. Prof. Dr. Sharmin Akter Liza",
+        "email": "akterliza@gamail.com",
+        "education": "MBBS, FCPS (OBGYN)",
+        "specialization": "Infertility, Laparoscopic, Gynecology, Obstetrics",
+        "experience": {
+            "title": "Assistant Professor",
+            "institute": "Institute of Child and Mother Health",
+            "address": "Medical Rd, Dhaka - 1362"
+        },
+        "chambers": [
+            {
+                "name": "Saleha Diagnostic Centre",
+                "address": "London Market, Sanarpar, Demra, Dhaka - 1361",
+                "areaId": "65f587cefc102bdf67f3d2b2",
+                "visitingHour": {
+                    "from": "17:00",
+                    "to": "20:00"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. R. R. Kairy",
+        "email": "rkairy@gamail.com",
+        "education": "MBBS, MS (Orthopedics), FICS",
+        "specialization": "Orthopedics, Bone, Joint, Arthritis, Trauma",
+        "experience": {
+            "title": "Professor, Orthopedic Surgery",
+            "institute": "National Institute of Traumatology & Orthopedic Rehabilitation",
+            "address": "Sher-e-Bangla Nagar, Dhaka - 1207"
+        },
+        "chambers": [
+            {
+                "name": "Green Life Hospital",
+                "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+                "areaId": "65f587cefc102bdf67f3d2b7",
+                "visitingHour": {
+                    "from": "18:00",
+                    "to": "20:00"
+                },
+                "contact": "+8801903082062"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Ashok Kumar Dutta",
+        "email": "ashok.dutta@gamail.com",
+        "education": "MBBS, FCPS (Medicine), MD (Cardiology), FACC (USA)",
+        "specialization": "Heart, Cardiology, Medicine, Chest, Heart",
+        "experience": {
+            "title": "Professor & Senior Consultant",
+            "institute": "National Heart Foundation Hospital & Research Institute",
+            "address": "Plot-7/2, Section-2, Mirpur, Dhaka - 1216"
+        },
+        "chambers": [
+            {
+                "name": "Popular Diagnostic Center, Uttara",
+                "address": "House #21, Road #7, Sector #4, Uttara, Dhaka",
+                "areaId": "65f587cefc102bdf67f3d2a6",
+                "visitingHour": {
+                    "from": "19:00",
+                    "to": "22:00"
+                },
+                "contact": "+8809613787805"
+            }
+        ]
+    },
+    {
+        "name": "Dr. Md. Imran Hossain",
+        "email": "imranhossain@gamail.com",
+        "education": "BDS (DU), PhD (Dental Surgery) France, MSS (Clinical) DU, MPH (USA), PGT (Orthodontic), PGT (OMS) BSMMU",
+        "specialization": "Dental Implant, Invisalign, Dental Braces, Smile Design, TM Joint Disorder, Tooth Whitening, Root Canal, Dental Jewelry, Cleft Lip, Palate Surgery, Tooth Extraction, Oral,Cosmetic Filling, Dental Bridge",
+        "experience": {
+            "title": "Chief Consultant",
+            "institute": "Dental View Orthodontics & Implant Center",
+            "address": "House No #67/C, Road #11, Block #E, Banani, Dhaka - 1213"
+        },
+        "chambers": [
+            {
+                "name": "Dental View Orthodontics & Implant Center",
+                "address": "House No #67/C, Road #11, Block #E, Banani, Dhaka - 1213",
+                "areaId": "65f734420e87ffe7e6a20262",
+                "visitingHour": {
+                    "from": "10:00",
+                    "to": "21:30"
+                },
+                "contact": "+8801789280929"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Shohael Mahmud Arafat",
+        "email": "arafat@gamail.com",
+        "education": "MBBS, FCPS (Medicine), MRCP (UK)",
+        "specialization": "Internal Medicine, Nephrology, Neuromedicine",
+        "experience": {
+            "title": "Professor",
+            "institute": "Bangabandhu Sheikh Mujib Medical University Hospital",
+            "address": "Shabagh, Dhaka - 1000"
+        },
+        "chambers": [
+            {
+                "name": "Ibn Sina Diagnostic Center, Dhanmondi",
+                "address": "House #48, Road #9/A, Dhanmondi, Dhaka - 1209",
+                "areaId": "65f587cefc102bdf67f3d2b7",
+                "visitingHour": {
+                    "from": "16:30",
+                    "to": "21:00"
+                },
+                "contact": "+8809610010615"
+            }
+        ]
+    },
+    {
+        "name": "Dr. Md. Shuktarul Islam (Tamim)",
+        "email": "tamim@gamail.com",
+        "education": "MBBS, MD (Neurology), CCD (BIRDEM)",
+        "specialization": "Neurology, Medicine, Brain, Nerve, Headache, Migraine, Stroke",
+        "experience": {
+            "title": "Neurologist, Stroke Unit, Clinical Neurology",
+            "institute": "National Institute of Neurosciences & Hospital",
+            "address": "Sher-E-Bangla Nagar, Agargaon, Dhaka - 1207"
+        },
+        "chambers": [
+            {
+                "name": "Ibn Sina Diagnostic & Consultation Center, Jatrabari",
+                "address": "House #79/1E, Demra Road, Bibir Bagicha, Uttar Jatrabari, Dhaka",
+                "areaId": "65f587cefc102bdf67f3d2c1",
+                "visitingHour": {
+                    "from": "18:00",
+                    "to": "22:00"
+                },
+                "contact": "+8809610009626"
+            }
+        ]
+    }
+]

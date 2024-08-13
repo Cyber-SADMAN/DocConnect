@@ -1,0 +1,810 @@
+[{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2a4"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Adabor"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2a5"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Uttar Khan"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2a6"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Uttara"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2a7"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Kadamtali"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2a8"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Kalabagan"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2a9"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Kafrul"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2aa"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Kamrangirchar"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2ab"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Cantonment"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2ac"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Kotwali"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2ad"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Khilkhet"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2ae"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Khilgaon"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2af"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Gulshan"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b0"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Gendaria"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b1"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Chawkbazar"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b2"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Demra"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b3"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Turag"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b4"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Tejgaon"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b5"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Dakshinkhan"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b6"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Darus Salam"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b7"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Dhanmondi"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b8"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "New Market"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2b9"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Paltan"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2ba"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Pallabi"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2bb"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Bangshal"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2bc"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Badda"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2bd"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Bimanbandar"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2be"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Motijheel"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2bf"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Mirpur"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c0"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Mohammadpur"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c1"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Jatrabari"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c2"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Ramna"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c3"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Rampura"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c4"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Lalbagh"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c5"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Shah Ali"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c6"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Shahbagh"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c7"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Sher-e-Bangla Nagar"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c8"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Shyampur"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2c9"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Sabujbagh"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2ca"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Sutrapur"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2cb"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Hazaribagh"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2cc"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Keraniganj"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2cd"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Nawabganj"
+},
+{
+  "_id": {
+    "$oid": "65f587cefc102bdf67f3d2ce"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  },
+  "name": "Savar"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d0"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Akhalia"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d1"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Ambarkhana"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d2"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Badam Bagicha"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d3"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Baghibari"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d4"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Bil Par"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d5"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Airport Road"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d6"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Chowkidekhi"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d7"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Dargah Mahalla"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d8"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Gasitula"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2d9"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Hatimbagh"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2da"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Hawapara"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2db"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Jalalabad"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2dc"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Jalalabad Cantonment"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2dd"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Kajal Shah"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2de"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Khadimnagar"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2df"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Lal Dighirpar"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e0"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Lama Bazar"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e1"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Mazumdari"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e2"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Mirboxtula"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e3"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Mirza Jangal"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e4"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Modhu Shahid"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e5"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Pathan Tula"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e6"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Pir Mahalla"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e7"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Puran Lane"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e8"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Rajargali"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2e9"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Sabuj Bagh"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2ea"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Sadipur"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2eb"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Sagardigir Par"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2ec"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Shibganj"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2ed"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Kadamtali"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2ee"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Sylhet Sadar Upazilla Office"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2ef"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Tilagor"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f0"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Chowhatta"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f1"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Zindabazar"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f2"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Jail Road"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f3"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Naiorpool"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f4"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Nayasarak"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f5"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Shahi Eidghah"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f6"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Housing Estate"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f7"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Dhupadigir Par"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f8"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Baruthkhana"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2f9"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Kumarpara"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2fa"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Dargah Gate"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2fb"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Shahjalal Uposhohor"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2fc"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Subhanighat"
+},
+{
+  "_id": {
+    "$oid": "65f58837fc102bdf67f3d2fd"
+  },
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d285"
+  },
+  "name": "Subidbazar"
+},
+{
+  "_id": {
+    "$oid": "65f734420e87ffe7e6a20262"
+  },
+  "name": "Banani",
+  "districtId": {
+    "$oid": "65f58154fc102bdf67f3d290"
+  }
+}]
